@@ -1,7 +1,6 @@
 function firstWord(s) {
 
   s = s.trim();
-
   let result = "";
 
   for (let i = 0; i < s.length; i++) {
